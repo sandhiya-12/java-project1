@@ -6,11 +6,11 @@ import org.springframework.boot.test.context.SpringBootTest;
 import java.util.*;
 
 @SpringBootTest
-class DemoWorkshopApplicationTests {
+class DemoApplicationTests {
 
 	@Test
 	void contextLoads() {
-		List li = new ArrayList<String> ();
+		List li = new ArrayList<String>();
 	}
 
 }
